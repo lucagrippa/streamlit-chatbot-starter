@@ -1,4 +1,4 @@
-# streamlit-chatbot
+# streamlit-chatbot-starter
 
 A simple chatbot powered by OpenAI's language model. This chatbot is built using Streamlit, an easy-to-use Python web app framework for data science and machine learning applications.
 
